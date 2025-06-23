@@ -39,5 +39,5 @@ This project is a deep learning-based web application for detecting brain tumors
 
 ---
 
-## 🧪 Sample Output
+
 
